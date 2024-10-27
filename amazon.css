@@ -235,8 +235,6 @@ font-size: 14px;
     top: 100px;
 }
 .div2{
-    width: 100%;
-    height: 100%;
     display: flex;
     justify-content: center;
 }
@@ -273,7 +271,7 @@ font-size: 14px;
 .dabb1_1_2{
     width: 100%;
     height: 303px;
-    background-image: url("div1_4.jpg");
+    background-image: url("dabb1.jpg");
     background-size: cover;
     background-position: -40px;
 }
@@ -321,7 +319,7 @@ font-size: 14px;
     width: 100%;
     height: 172.7px;
     /*background-color: #232f3e;*/
-    background-image: url("div21211.jpg");
+    background-image: url("dabb2_1.jpg");
     background-size: cover;
     background-position: -45px;
 }
@@ -343,19 +341,19 @@ font-size: 14px;
 .dabb2_1_2_2_1_1{
     width: 99.3px;
     height: 75px;
-    background-image: url("div212211.jpg");
+    background-image: url("dabb2_2.jpg");
     background-size: cover;
 }
 .dabb2_1_2_2_1_2{
     width: 99.3px;
     height: 75px;
-    background-image: url("div212212.jpg");
+    background-image: url("dabb2_3.jpg");
     background-size: cover;
 }
 .dabb2_1_2_2_1_3{
     width: 99.3px;
     height: 75px;
-    background-image: url("div212213.jpg");
+    background-image: url("dabb2_4.jpg");
     background-size: cover;
 }
 .dabb2_1_2_2_2{
@@ -416,14 +414,14 @@ font-size: 14px;
 .dabb3_1_2_1_1_1{
     width: 149px;
     height: 100%;
-    background-image: url("div312111.jpg");
+    background-image: url("dabb3_1.jpg");
     background-size: cover;
     background-position: -30px;
 }
 .dabb3_1_2_1_1_2{
     width: 149px;
     height: 100%;
-    background-image: url("div312112.jpg");
+    background-image: url("dabb3_2.jpg");
     background-size: cover;
     background-position: -20px;
 }
@@ -448,14 +446,14 @@ font-size: 14px;
 .dabb3_1_2_2_1_1{
     width: 149px;
     height: 100%;
-    background-image: url("div312211.jpg");
+    background-image: url("dabb3_3.jpg");
     background-size: cover;
     background-position: -20px;
 }
 .dabb3_1_2_2_1_2{
     width: 149px;
     height: 100%;
-    background-image: url("div312212.jpg");
+    background-image: url("dabb3_4.jpg");
     background-size: cover;
     background-position: -25px;
 }
@@ -512,14 +510,14 @@ font-size: 14px;
 .dabb4_1_2_1_1_1{
     width: 149px;
     height: 100%;
-    background-image: url("div412111.jpg");
+    background-image: url("dabb4_1.jpg");
     background-size: cover;
     background-position: -20px;
 }
 .dabb4_1_2_1_1_2{
     width: 149px;
     height: 100%;
-    background-image: url("div412112.jpg");
+    background-image: url("dabb4_2.jpg");
     background-size: cover;
     background-position: -20px;
 }
@@ -544,14 +542,14 @@ font-size: 14px;
 .dabb4_1_2_2_1_1{
     width: 149px;
     height: 100%;
-    background-image: url("div412211.jpg");
+    background-image: url("dabb4_3.jpg");
     background-size: cover;
     background-position: -20px;
 }
 .dabb4_1_2_2_1_2{
     width: 149px;
     height: 100%;
-    background-image: url("div412212.jpg");
+    background-image: url("dabb4_4.jpg");
     background-size: cover;
     background-position: -20px;
 }
@@ -569,6 +567,400 @@ font-size: 14px;
     justify-content: end;
 }
 .dabb4_1_3 a{
+    text-decoration: none;
+    color: #007185;
+}
+
+.div3{
+    display: flex;
+    justify-content: center;
+}
+.div3_1{
+    width: 1520px;
+    height: 420px;
+    position: absolute;
+    top: 794px;
+    /*background-color: gray;*/
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.dabb5{
+    width: 350px;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dabb5_1{
+    width: 310px;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    /*background-color: gray;*/
+}
+.dabb5_1_1{
+    height: 38px;
+    font-size: 21px;
+}
+.dabb5_1_2{
+    width: 100%;
+    height: 303.7px;
+}
+.dabb5_1_2_1{
+    width: 100%;
+    height: 192.2px;
+    /*background-color: white;*/
+    align-content: flex-end;
+}
+.dabb5_1_2_1_1{
+    width: 100%;
+    height: 145.41px;
+    /*background-color: #232f3e;*/
+    background-image: url("dabb5_1.jpg");
+    background-size: cover;
+    background-position: -45px;
+}
+.dabb5_1_2_2{
+    width: 100%;
+    height: 111.5px;
+    /*background-color: cyan;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.dabb5_1_2_2_1{
+    width: 100%;
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2px;
+}
+.dabb5_1_2_2_1_1{
+    width: 99.3px;
+    height: 75px;
+    background-image: url("dabb5_2.jpg");
+    background-size: cover;
+}
+.dabb5_1_2_2_1_2{
+    width: 99.3px;
+    height: 75px;
+    background-image: url("dabb5_3.jpg");
+    background-size: cover;
+}
+.dabb5_1_2_2_1_3{
+    width: 99.3px;
+    height: 75px;
+    background-image: url("dabb5_4.jpg");
+    background-size: cover;
+}
+.dabb5_1_2_2_2{
+    width: 100%;
+    height: 18.25px;
+    display: flex;
+}
+.dabb5_1_2_2_2_2{
+    margin-left: 65px;
+}
+.dabb5_1_2_2_2_3{
+    margin-left: 13px;
+}
+.dabb5_1_3{
+    height: 38px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.dabb5_1_3 a{
+    text-decoration: none;
+    color: #007185;
+}
+
+.dabb6{
+    width: 350px;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dabb6_1{
+    width: 310px;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+}
+.dabb6_1_1{
+    width: 100%;
+    height: 38px;
+    font-size: 21px;
+}
+.dabb6_1_2{
+    height: 303.7px;
+}
+.dabb6_1_2_1{
+    width: 100%;
+    height: 151.8px;
+}
+.dabb6_1_2_1_1{
+    width: 100%;
+    height: 115.8px;
+    display: flex;
+    justify-content: space-between;
+}
+.dabb6_1_2_1_1_1{
+    width: 149px;
+    height: 100%;
+    background-image: url("dabb6_1.jpg");
+    background-size: cover;
+    background-position: -30px;
+}
+.dabb6_1_2_1_1_2{
+    width: 149px;
+    height: 100%;
+    background-image: url("dabb6_2.jpg");
+    background-size: cover;
+    background-position: -20px;
+}
+.dabb6_1_2_1_2{
+    display: flex;
+}
+.dabb6_1_2_1_2_2{
+    margin-left: 121px;
+}
+.dabb6_1_2_2{
+    width: 100%;
+    height: 151.8px;
+    flex-direction: column;
+    align-content: end;
+}
+.dabb6_1_2_2_1{
+    width: 100%;
+    height: 115.8px;
+    display: flex;
+    justify-content: space-between;
+}
+.dabb6_1_2_2_1_1{
+    width: 149px;
+    height: 100%;
+    background-image: url("dabb6_3.jpg");
+    background-size: cover;
+    background-position: -20px;
+}
+.dabb6_1_2_2_1_2{
+    width: 149px;
+    height: 100%;
+    background-image: url("dabb6_4.jpg");
+    background-size: cover;
+    background-position: -25px;
+}
+.dabb6_1_2_2_2{
+    display: flex;
+}
+.dabb6_1_2_2_2_2{
+    margin-left: 115px;
+}
+.dabb6_1_3{
+    width: 100%;
+    height: 38px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.dabb6_1_3 a{
+    text-decoration: none;
+    color: #007185;
+}
+
+.dabb7{
+    width: 350px;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dabb7_1{
+    width: 310px;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+}
+.dabb7_1_1{
+    width: 100%;
+    height: 38px;
+    font-size: 21px;
+}
+.dabb7_1_2{
+    height: 303.7px;
+}
+.dabb7_1_2_1{
+    width: 100%;
+    height: 151.8px;
+}
+.dabb7_1_2_1_1{
+    width: 100%;
+    height: 115.8px;
+    display: flex;
+    justify-content: space-between;
+}
+.dabb7_1_2_1_1_1{
+    width: 149px;
+    height: 100%;
+    background-image: url("dabb7_1.jpg");
+    background-size: cover;
+    background-position: -30px;
+}
+.dabb7_1_2_1_1_2{
+    width: 149px;
+    height: 100%;
+    background-image: url("dabb7_2.jpg");
+    background-size: cover;
+    background-position: -20px;
+}
+.dabb7_1_2_1_2{
+    display: flex;
+}
+.dabb7_1_2_1_2_2{
+    margin-left: 70px;
+}
+.dabb7_1_2_2{
+    width: 100%;
+    height: 151.8px;
+    flex-direction: column;
+    align-content: end;
+}
+.dabb7_1_2_2_1{
+    width: 100%;
+    height: 115.8px;
+    display: flex;
+    justify-content: space-between;
+}
+.dabb7_1_2_2_1_1{
+    width: 149px;
+    height: 100%;
+    background-image: url("dabb7_3.jpg");
+    background-size: cover;
+    background-position: -20px;
+}
+.dabb7_1_2_2_1_2{
+    width: 149px;
+    height: 100%;
+    background-image: url("dabb7_4.jpg");
+    background-size: cover;
+    background-position: -25px;
+}
+.dabb7_1_2_2_2{
+    display: flex;
+}
+.dabb7_1_2_2_2_2{
+    margin-left: 83px;
+}
+.dabb7_1_3{
+    width: 100%;
+    height: 38px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.dabb7_1_3 a{
+    text-decoration: none;
+    color: #007185;
+}
+
+.dabb8{
+    width: 350px;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dabb8_1{
+    width: 310px;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+}
+.dabb8_1_1{
+    width: 100%;
+    height: 38px;
+    font-size: 21px;
+}
+.dabb8_1_2{
+    height: 303.7px;
+}
+.dabb8_1_2_1{
+    width: 100%;
+    height: 151.8px;
+}
+.dabb8_1_2_1_1{
+    width: 100%;
+    height: 115.8px;
+    display: flex;
+    justify-content: space-between;
+}
+.dabb8_1_2_1_1_1{
+    width: 149px;
+    height: 100%;
+    background-image: url("dabb8_1.jpg");
+    background-size: cover;
+    background-position: -30px;
+}
+.dabb8_1_2_1_1_2{
+    width: 149px;
+    height: 100%;
+    background-image: url("dabb8_2.jpg");
+    background-size: cover;
+    background-position: -20px;
+}
+.dabb8_1_2_1_2{
+    display: flex;
+}
+.dabb8_1_2_1_2_2{
+    margin-left: 57px;
+}
+.dabb8_1_2_2{
+    width: 100%;
+    height: 151.8px;
+    flex-direction: column;
+    align-content: end;
+}
+.dabb8_1_2_2_1{
+    width: 100%;
+    height: 115.8px;
+    display: flex;
+    justify-content: space-between;
+}
+.dabb8_1_2_2_1_1{
+    width: 149px;
+    height: 100%;
+    background-image: url("dabb8_3.jpg");
+    background-size: cover;
+    background-position: -20px;
+}
+.dabb8_1_2_2_1_2{
+    width: 149px;
+    height: 100%;
+    background-image: url("dabb8_4.jpg");
+    background-size: cover;
+    background-position: -25px;
+}
+.dabb8_1_2_2_2{
+    display: flex;
+}
+.dabb8_1_2_2_2_2{
+    margin-left: 124px;
+}
+.dabb8_1_3{
+    width: 100%;
+    height: 38px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.dabb8_1_3 a{
     text-decoration: none;
     color: #007185;
 }
